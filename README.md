@@ -5,9 +5,7 @@ I'm a Senior Software Engineer focused on **backend systems, AWS infrastructure,
 
 I build production systems in Python, automate cloud infrastructure with AWS CDK, and design developer tools that turn complex workflows into reliable, testable software.
 
-Most of my recent production work is proprietary and lives in private repositories; *the projects here reflect earlier work.*
-
-The exception is **[notes-mcp](https://github.com/pdegner/notes-mcp)** — a Model Context Protocol server that gives Claude Code and Claude Desktop access to local Markdown notes.
+Most of my recent production work is proprietary and lives in private repositories; *the projects here reflect earlier work.* The exception is **[notes-mcp](https://github.com/pdegner/notes-mcp)** — a Model Context Protocol server that gives Claude Code and Claude Desktop access to local Markdown notes.
 
 - 🔭 I’m currently working on automating repetitive workflows at my current job
 - 😄 Pronouns: she / her
