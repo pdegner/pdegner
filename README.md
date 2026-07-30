@@ -5,9 +5,7 @@ I'm a Senior Software Engineer focused on **backend systems, AWS infrastructure,
 
 I build production systems in Python, automate cloud infrastructure with AWS CDK, and design developer tools that turn complex workflows into reliable, testable software.
 
-Most of my recent production work is proprietary and lives in private repositories; *the projects here reflect earlier work and selected technical interests.*
-
-Here are some ideas to get you started:
+Most of my recent production work is proprietary and lives in private repositories; *the projects here reflect earlier work.*
 
 - 🔭 I’m currently working on automating repetitive workflows at my current job
 - 😄 Pronouns: she / her
